@@ -43,7 +43,7 @@ To run Windows and Excel within VirtualBox, follow the steps below.
 
 1.  Download [VirtualBox](https://www.virtualbox.org) and run the VirtualBox installer.
 
-2.  Download Microsoft Windows 10 via [Microsoft Imagine](https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897&ws=f2f4cf67-44b9-e511-9414-b8ca3a5db7a1&vsro=8&pc=0dafd5cd-4c09-e011-bed1-0030487d8897).
+2.  Download Microsoft Windows 10 via [Microsoft Imagine]
 
 3.  Follow [these directions](https://www.extremetech.com/computing/198427-how-to-install-windows-10-in-a-virtual-machine) to setup Windows 10 within VirtualBox.
 
