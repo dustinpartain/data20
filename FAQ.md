@@ -37,7 +37,6 @@ There are many resources online for learning Python. [Automate the Boring Stuff 
 
 - [Coursera](https://www.coursera.org/learn/python-data-analysis)
 - [Introduction to Pandas](http://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_1-Introduction-to-Pandas.ipynb)
-- [Data Wrangling with Pandas](http://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Data-Wrangling-with-Pandas.ipynb)
 - [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
 
 For Coursera, choose the "audit" option to view course materials. Note that you need a Coursera account to select the audit option. The site offers a paid service, but you can access course materials for free by auditing.
