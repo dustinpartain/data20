@@ -1,8 +1,4 @@
-# Frequently Asked Questions
-MBA 6273
-Spring 2020
-
-## What Excel tutorials do you recommend?
+# What Excel tutorials do you recommend?
 
 The following resources are helpful:
 
@@ -12,15 +8,15 @@ The following resources are helpful:
 
 The last resource offers videos on narrow topics (e.g., using the `VLOOKUP` function).
 
-## How do I move to the top of a selected range in Excel?
+# How do I move to the top of a selected range in Excel?
 
 After selecting a range (for example, with `Ctrl+Shift+Down`), press `Enter` to move to the top of the range.
 
-## How do I clear the contents of a range in Excel for Mac?
+# How do I clear the contents of a range in Excel for Mac?
 
 Select the range, then press `fn+Delete`.
 
-## Can you recommend authors to follow for the topic of technology and organization design?
+# Can you recommend authors to follow for the topic of technology and organization design?
 
 Each of these authors regularly publishes interesting articles or books on the topic:
 
@@ -29,24 +25,24 @@ Each of these authors regularly publishes interesting articles or books on the t
 - [Lorin Hitt](http://iecon.net/)
 - [Andrew McAfee](http://andrewmcafee.org/).
 
-## How can I access Tableau?
+# How can I access Tableau?
 
 Tableau Software provides a free license to students. Sign up via the form at the bottom of [this page](https://www.tableau.com/academic/students).
 
-## How can I get started with Python?
+# How can I get started with Python?
 
 The [Anaconda Platform](https://www.anaconda.com/what-is-anaconda/) provides a comprehensive solution for analyzing data with Python. The [standard version of Anaconda](https://www.anaconda.com/download/) includes common tools such as *NumPy*, *pandas*, *StatsModels*, and *scikit-learn*. In addition [*Jupyter Notebook*](http://jupyter.org), included with Anaconda, provides one of the best environments for working with data in Python.
 
 There are many resources online for learning Python. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) is an excellent general introduction to Python. The following sites are useful for learning data analysis with Python.
 
--   [Coursera](https://www.coursera.org/learn/python-data-analysis)
--   [Introduction to Pandas](http://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_1-Introduction-to-Pandas.ipynb)
--   [Data Wrangling with Pandas](http://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Data-Wrangling-with-Pandas.ipynb)
--   [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+- [Coursera](https://www.coursera.org/learn/python-data-analysis)
+- [Introduction to Pandas](http://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_1-Introduction-to-Pandas.ipynb)
+- [Data Wrangling with Pandas](http://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Data-Wrangling-with-Pandas.ipynb)
+- [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
 
 For Coursera, choose the "audit" option to view course materials. Note that you need a Coursera account to select the audit option. The site offers a paid service, but you can access course materials for free by auditing.
 
-## How can I get started with R?
+# How can I get started with R?
 
 I recommend using [RStudio](https://rstudio.com/products/rstudio/#rstudio-desktop) and the `tidyverse` approach. `Tidyverse` is a group of packages that add useful data manipulation and visualization tools. Please see the *Resources* module on Carmen for directions for installing R, RStudio (an integrated development environment for R), and `tidyverse`.
 
@@ -79,7 +75,7 @@ For Coursera, choose the "audit" option if you enroll. The site pushes the 7-day
 
 My advice for learning R is to begin with a basic introduction. *R for Data Science* chapters 1 through 6, the DataCamp course, or the first two weeks of the Coursera course would each fit the bill. After the introduction, you will be able to implement MBA 6273 exercises using R. It's hard to learn a programming language in isolation, and a moving target (i.e., exercises of increasing difficulty) helps. I'm happy to discuss any specific questions you have while learning R.
 
-## Should I Learn SQL?
+# Should I Learn SQL?
 
 I recommend starting with Python or R. The `Blaze` package for Python and the `dplyr` package for R implement core database operations using terms reminiscent of SQL. Once you are comfortable with data manipulation in Python or R, it is straightforward to translate your ideas to SQL.
 
@@ -89,11 +85,11 @@ Suppose we run a service business. We have a database with two data tables: `sal
 
 We want to calculate labor productivity as daily revenue divided by headcount for each location and day. We must:
 
-1.  Group revenue observations in the `sales` table by `location` and `date`, then total `revenue` within each group. E.g., for the group defined by location A and date 1/1/2018, daily revenue is the sum of all hourly revenues within the group
+1. Group revenue observations in the `sales` table by `location` and `date`, then total `revenue` within each group. E.g., for the group defined by location A and date 1/1/2018, daily revenue is the sum of all hourly revenues within the group
 
-2.  Merge the two tables according to location and date
+2. Merge the two tables according to location and date
 
-3.  Calculate labor productivity.
+3. Calculate labor productivity.
 
 In R:
 
@@ -120,5 +116,3 @@ FROM staff
 ```
 
 In both cases, the grouping and merging (left join) verbs are similar. The R code is easier to read since it follows the logic of the operations. We select the `sales` table, group the `sales` table by `location` and `date`, summarize each group by taking the sum of `revenue`, merge the result with the `staff` table, and calculate labor productivity.
-
-
