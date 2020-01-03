@@ -1,3 +1,7 @@
+# Frequently Asked Questions
+MBA 6273
+Spring 2020
+
 -   [What Excel tutorials do you
     recommend?](#what-excel-tutorials-do-you-recommend)
 -   [How do I move to the top of a selected range in
@@ -13,7 +17,7 @@
 -   [How can I get started with R?](#how-can-i-get-started-with-r)
 -   [Should I Learn SQL?](#should-i-learn-sql)
 
-# What Excel tutorials do you recommend?
+## What Excel tutorials do you recommend?
 
 The following resources are helpful:
 
@@ -25,16 +29,16 @@ The following resources are helpful:
 The last resource offers videos on narrow topics (e.g., using the
 `VLOOKUP` function).
 
-# How do I move to the top of a selected range in Excel?
+## How do I move to the top of a selected range in Excel?
 
 After selecting a range (for example, with `Ctrl+Shift+Down`), press
 `Enter` to move to the top of the range.
 
-# How do I clear the contents of a range in Excel for Mac?
+## How do I clear the contents of a range in Excel for Mac?
 
 Select the range, then press `fn+Delete`.
 
-# Can you recommend authors to follow for the topic of technology and organization design?
+## Can you recommend authors to follow for the topic of technology and organization design?
 
 Each of these authors regularly publishes interesting articles or books
 on the topic:
@@ -44,13 +48,13 @@ on the topic:
 -   [Lorin Hitt](http://iecon.net/)
 -   [Andrew McAfee](http://andrewmcafee.org/).
 
-# How can I access Tableau?
+## How can I access Tableau?
 
 Tableau Software provides a free license to students. Sign up via the
 form at the bottom of [this
 page](https://www.tableau.com/academic/students).
 
-# How can I get started with Python?
+## How can I get started with Python?
 
 The [Anaconda Platform](https://www.anaconda.com/what-is-anaconda/)
 provides a comprehensive solution for analyzing data with Python. The
@@ -76,7 +80,7 @@ that you need a Coursera account to select the audit option. The site
 offers a paid service, but you can access course materials for free by
 auditing.
 
-# How can I get started with R?
+## How can I get started with R?
 
 I recommend using
 [RStudio](https://rstudio.com/products/rstudio/#rstudio-desktop) and the
@@ -136,7 +140,7 @@ isolation, and a moving target (i.e., exercises of increasing
 difficulty) helps. I'm happy to discuss any specific questions you have
 while learning R.
 
-# Should I Learn SQL?
+## Should I Learn SQL?
 
 I recommend starting with Python or R. The `Blaze` package for Python
 and the `dplyr` package for R implement core database operations using
