@@ -73,7 +73,7 @@ I recommend starting with the `tidyverse` approach. `Tidyverse` is a group of pa
 
 `Tidyverse` includes a package, `dplyr`, that simplifies the syntax for most common data manipulations. As an example, suppose we have a dataset called `dat` that describes products a retailer sells. The dataset has two variables: `price` and `category`. To calculate the average price for each product category in base R:
 
-``` {.r org-language="R"}
+```R
 with(dat, aggregate(price, list(category), mean))
 ```
 
@@ -81,7 +81,7 @@ The `with` function specifies that we use variables from the `dat` dataset. The 
 
 Using `dplyr`, the code is:
 
-``` {.r org-language="R"}
+```R
 dat %>%
   group_by(category) %>%
   summarize(mean(price))
@@ -118,7 +118,7 @@ We want to calculate labor productivity as daily revenue divided by headcount fo
 
 In R:
 
-``` {.r org-language="R"}
+```R
 sales %>% 
   group_by(location, date) %>%
   summarize(dailyRevenue = sum(revenue)) %>%
@@ -128,7 +128,7 @@ sales %>%
 
 In SQL:
 
-``` {.sql org-language="sqlite"}
+```SQL
 SELECT *,
        dailyRevenue / headcount AS laborProductivity
 FROM staff
