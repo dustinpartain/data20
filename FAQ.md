@@ -1,5 +1,5 @@
 # Frequently Asked Questions
-MBA 6273
+MBA 6273 \
 Spring 2020
 
 -   [What Excel tutorials do you
