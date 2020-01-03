@@ -1,6 +1,4 @@
 # Frequently Asked Questions
-MBA 6273 \
-Spring 2020
 
 -   [What Excel tutorials do you recommend?](#what-excel-tutorials-do-you-recommend)
 -   [How do I move to the top of a selected range in Excel?](#how-do-i-move-to-the-top-of-a-selected-range-in-excel)
