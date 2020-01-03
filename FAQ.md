@@ -69,7 +69,7 @@ For Coursera, choose the "audit" option to view course materials. Note that you 
 
 ## How can I get started with R?
 
-I recommend starting with the `tidyverse` approach. `Tidyverse` is a group of packages that add useful data manipulation and visualization tools. Please see the *Resources* module on Carmen for directions for installing R, RStudio (an integrated development environment for R), and `tidyverse`.
+I recommend using [RStudio](https://rstudio.com/products/rstudio/#rstudio-desktop) and the `tidyverse` approach. `Tidyverse` is a group of packages that add useful data manipulation and visualization tools. Please see the *Resources* module on Carmen for directions for installing R, RStudio (an integrated development environment for R), and `tidyverse`.
 
 `Tidyverse` includes a package, `dplyr`, that simplifies the syntax for most common data manipulations. As an example, suppose we have a dataset called `dat` that describes products a retailer sells. The dataset has two variables: `price` and `category`. To calculate the average price for each product category in base R:
 
