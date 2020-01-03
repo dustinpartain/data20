@@ -1,3 +1,6 @@
+# Frequently Asked Questions
+MBA 6273
+
 ## What Excel tutorials do you recommend?
 
 The following resources are helpful:
@@ -9,15 +12,15 @@ The following resources are helpful:
 
 The last two resources offer videos on narrow topics (e.g., using the `AVERAGE` function or using the `VLOOKUP` function).
 
-# How do I move to the top of a selected range in Excel?
+## How do I move to the top of a selected range in Excel?
 
 After selecting a range (for example, with `Ctrl+Shift+Down`), press `Enter` to move to the top of the range.
 
-# How do I clear the contents of a range in Excel for Mac?
+## How do I clear the contents of a range in Excel for Mac?
 
 Select the range, then press `fn+Delete`.
 
-# Can you recommend authors to follow for the topic of technology and organization design?
+## Can you recommend authors to follow for the topic of technology and organization design?
 
 Each of these authors regularly publishes interesting articles or books on the topic:
 
@@ -26,7 +29,7 @@ Each of these authors regularly publishes interesting articles or books on the t
 - [Lorin Hitt](http://iecon.net/)
 - [Andrew McAfee](http://andrewmcafee.org/).
 
-# How can I run the Windows version of Excel on my Mac? 
+## How can I run the Windows version of Excel on my Mac? 
 
 The macOS version of Excel provides the features the course requires. However, the interface of the Mac version differs from that of the Windows version. If you have trouble following in-class examples while using a Mac, you may wish to run the Windows version of Excel.
 
@@ -46,6 +49,6 @@ To run Windows and Excel within VirtualBox, follow the steps below.
 
 4.  Use BuckeyeMail to [download Microsoft Office](https://osuitsm.service-now.com/selfservice/kb_view.do?sysparm_article=kb04733) and run the Office installer.
 
-# Do I have access to Tableau?
+## Do I have access to Tableau?
 
 Yes, Tableau Software provides a free license to students. Sign up via the form at the bottom of [this page](https://www.tableau.com/academic/students).
