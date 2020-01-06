@@ -10,7 +10,7 @@
 
 # Sources
 - [How Amazon advertising works.](https://www.cnbc.com/2019/07/17/how-amazon-advertising-works.html)
-- [E5 Hot Jobs for MBA Graduates.](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/hot-jobs-for-mba-graduates)
+- [5 Hot Jobs for MBA Graduates.](https://www.usnews.com/education/best-graduate-schools/top-business-schools/articles/hot-jobs-for-mba-graduates)
 - [Data science and analytics job market predictions: PwC
 .](https://www.pwc.com/us/en/library/data-science-and-analytics.html)
 - [The Age of Analytics:
