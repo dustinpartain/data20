@@ -20,7 +20,6 @@ Competing in a Data-driven World](https://www.mckinsey.com/~/media/McKinsey/Busi
 - [Regulating the internet giants - The world’s most valuable resource is no longer oil, but data](https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data)
 - [How Amazon advertising works](https://www.cnbc.com/2019/07/17/how-amazon-advertising-works.html)
 
-
 ## Capabilities and Performance of Business Executives
 - [Developing Executive Leaders: The Relative Contribution Of Cognitive Ability, Personality, And The Accumulation Of Work Experience In Predicting Strategic Thinking Competency](https://www.researchgate.net/publication/230539053_Developing_Executive_Leaders_The_Relative_Contribution_Of_Cognitive_Ability_Personality_And_The_Accumulation_Of_Work_Experience_In_Predicting_Strategic_Thinking_Competency)
 - [How Special Are Executives? How Special Should Executive Selection Be? Observations and Recommendations](https://www.cambridge.org/core/journals/industrial-and-organizational-psychology/article/how-special-are-executives-how-special-should-executive-selection-be-observations-and-recommendations/73A034F4D23E0046749E9A9D0D5BAC7B#)
