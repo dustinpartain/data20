@@ -1,6 +1,6 @@
 
 # News and Optional Articles
-
+- [Warner Bros. Signs Deal for AI-Driven Film Management System.](https://www.hollywoodreporter.com/news/warner-bros-signs-deal-ai-driven-film-management-system-126803) Hollywood Reporter
 - [U.S. government limits exports of artificial intelligence software.](https://www.reuters.com/article/us-usa-artificial-intelligence/u-s-government-limits-exports-of-artificial-intelligence-software-idUSKBN1Z21PT) Reuters
 - [Global AI Survey: AI proves its worth, but few scale impact.](https://www.mckinsey.com/featured-insights/artificial-intelligence/global-ai-survey-ai-proves-its-worth-but-few-scale-impact) McKinsey
 - [Google’s ‘Project Nightingale’ Gathers Personal Health Data on Millions of Americans.](https://www.wsj.com/articles/google-s-secret-project-nightingale-gathers-personal-health-data-on-millions-of-americans-11573496790) WSJ
