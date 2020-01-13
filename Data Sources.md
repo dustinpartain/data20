@@ -2,6 +2,9 @@
 
 ## Public Data from Organizations
 - [Airbnb Data](http://insideairbnb.com/get-the-data.html)
+- [AWS Public Datasets](https://registry.opendata.aws)
+- [Enigma Public](https://public.enigma.com)
+- [Google Public Datasets](https://cloud.google.com/public-datasets/)
 - [Google Trends](https://trends.google.com/trends/)
 - [IMDb Datasets](https://www.imdb.com/interfaces/)
 - [IMF Data](https://www.imf.org/en/Data)
@@ -26,9 +29,6 @@
 - [Kaggle](http://www.kaggle.com)
 
 ## Miscellaneous
-- [AWS Public Datasets](https://registry.opendata.aws)
-- [Enigma Public](https://public.enigma.com)
 - [FiveThirtyEight](https://fivethirtyeight.com) 
-- [Google Public Datasets](https://cloud.google.com/public-datasets/)
 - [Open Data Stack Exchange](https://opendata.stackexchange.com)
 - [Our World in Data](https://ourworldindata.org)
