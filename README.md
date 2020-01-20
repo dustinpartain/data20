@@ -1,5 +1,6 @@
 
 # News and Optional Articles
+- [The Secretive Company That Might End Privacy as We Know It.](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) NYT
 - [Reinhart-Rogoff Error Sparks Austerity Debate.](https://www.cnbc.com/id/100648042) CNBC
 - [Shenzhen court rules AI-written article has copyright.](https://www.ecns.cn/news/2020-01-09/detail-ifzsqcrm6562963.shtml) China News Service
 - [Warner Bros. Signs Deal for AI-Driven Film Management System.](https://www.hollywoodreporter.com/news/warner-bros-signs-deal-ai-driven-film-management-system-1268036) Hollywood Reporter
