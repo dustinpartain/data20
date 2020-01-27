@@ -1,5 +1,6 @@
 
 # News and Optional Articles
+- [Yes, Alexa is recording mundane details of your life, and it’s creepy as hell.](https://www.technologyreview.com/s/611216/yes-alexa-is-recording-mundane-details-of-your-life-and-its-creepy-as-hell/) MIT Technology Review
 - [The Secretive Company That Might End Privacy as We Know It.](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) NYT
 - [Reinhart-Rogoff Error Sparks Austerity Debate.](https://www.cnbc.com/id/100648042) CNBC
 - [Shenzhen court rules AI-written article has copyright.](https://www.ecns.cn/news/2020-01-09/detail-ifzsqcrm6562963.shtml) China News Service
