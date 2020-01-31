@@ -1,5 +1,6 @@
 
 # News and Optional Articles
+- [Artificial Intelligence Will Do What We Ask. That’s a Problem.](https://www.quantamagazine.org/artificial-intelligence-will-do-what-we-ask-thats-a-problem-20200130/) Quanta
 - [Discovering millions of datasets on the web.](https://blog.google/products/search/discovering-millions-datasets-web/) Google
 - [Yes, Alexa is recording mundane details of your life, and it’s creepy as hell.](https://www.technologyreview.com/s/611216/yes-alexa-is-recording-mundane-details-of-your-life-and-its-creepy-as-hell/) MIT Technology Review
 - [The Secretive Company That Might End Privacy as We Know It.](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) NYT
