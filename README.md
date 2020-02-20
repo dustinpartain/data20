@@ -1,5 +1,6 @@
 
 # News and Optional Articles
+- [First analysis of ‘pre-registered’ studies shows sharp rise in null findings.](https://www.nature.com/articles/d41586-018-07118-1) Nature
 - [Amazon Changes the Way It Recruits M.B.A.s.](https://www.wsj.com/articles/amazon-changes-the-way-it-recruits-m-b-a-s-11582021802) WSJ
 - [Why Amazon knows so much about you.](https://www.bbc.co.uk/news/extra/CLQYZENMBI/amazon-data) BBC
 - [Artificial Intelligence Will Do What We Ask. That’s a Problem.](https://www.quantamagazine.org/artificial-intelligence-will-do-what-we-ask-thats-a-problem-20200130/) Quanta
@@ -32,3 +33,7 @@ Competing in a Data-driven World](https://www.mckinsey.com/~/media/McKinsey/Busi
 - [Developing Executive Leaders: The Relative Contribution Of Cognitive Ability, Personality, And The Accumulation Of Work Experience In Predicting Strategic Thinking Competency](https://www.researchgate.net/publication/230539053_Developing_Executive_Leaders_The_Relative_Contribution_Of_Cognitive_Ability_Personality_And_The_Accumulation_Of_Work_Experience_In_Predicting_Strategic_Thinking_Competency)
 - [How Special Are Executives? How Special Should Executive Selection Be? Observations and Recommendations](https://www.cambridge.org/core/journals/industrial-and-organizational-psychology/article/how-special-are-executives-how-special-should-executive-selection-be-observations-and-recommendations/73A034F4D23E0046749E9A9D0D5BAC7B#)
 - [Managerial level, personality and intelligence](https://psycnet.apa.org/record/2007-18118-005)
+
+## Miscellaneous
+- [Likelihood of Null Effects of Large NHLBI Clinical Trials Has Increased over Time](https://www.ncbi.nlm.nih.gov/pubmed/26244868)
+- [Clinical trial pre-registration](https://clinicaltrials.gov/ct2/manage-recs/background#WhyRegister)
