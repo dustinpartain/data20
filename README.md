@@ -1,5 +1,6 @@
 
 # News and Optional Articles
+- [Data Scientists Get all the Glamour But, Wow, Is There a Need for Data Engineers.](https://thenewstack.io/data-scientists-get-the-glamour-but-there-is-also-a-need-for-data-engineers/) The New Stack
 - [First analysis of ‘pre-registered’ studies shows sharp rise in null findings.](https://www.nature.com/articles/d41586-018-07118-1) Nature
 - [Amazon Changes the Way It Recruits M.B.A.s.](https://www.wsj.com/articles/amazon-changes-the-way-it-recruits-m-b-a-s-11582021802) WSJ
 - [Why Amazon knows so much about you.](https://www.bbc.co.uk/news/extra/CLQYZENMBI/amazon-data) BBC
