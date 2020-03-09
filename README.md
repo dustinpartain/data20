@@ -1,5 +1,7 @@
 
 # News and Optional Articles
+- [Just Walk Out by Amazon.](https://justwalkout.com)
+- [Surge of Virus Misinformation Stumps Facebook and Twitter.](https://www.nytimes.com/2020/03/08/technology/coronavirus-misinformation-social-media.html) NYT
 - [Johns Hopkins Covid-19 Github Data Repo.](https://github.com/CSSEGISandData/COVID-19)
 - [Data Scientists Get all the Glamour But, Wow, Is There a Need for Data Engineers.](https://thenewstack.io/data-scientists-get-the-glamour-but-there-is-also-a-need-for-data-engineers/) The New Stack
 - [First analysis of ‘pre-registered’ studies shows sharp rise in null findings.](https://www.nature.com/articles/d41586-018-07118-1) Nature
