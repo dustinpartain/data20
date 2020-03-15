@@ -1,5 +1,6 @@
 
 # News and Optional Articles
+- [AlphaGo Documentary.](https://www.youtube.com/watch?v=WXuK6gekU1Y) DeepMind
 - [Just Walk Out by Amazon.](https://justwalkout.com)
 - [Surge of Virus Misinformation Stumps Facebook and Twitter.](https://www.nytimes.com/2020/03/08/technology/coronavirus-misinformation-social-media.html) NYT
 - [Johns Hopkins Covid-19 Github Data Repo.](https://github.com/CSSEGISandData/COVID-19)
