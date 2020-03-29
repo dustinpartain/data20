@@ -1,5 +1,6 @@
 
 # News and Optional Articles
+- [An interactive visualization of the exponential spread of COVID-19.](http://91-divoc.com/pages/covid-visualization/)
 - [Nature Versus Nurture? Add ‘Noise’ to the Debate.](https://www.quantamagazine.org/nature-versus-nurture-add-noise-to-the-debate-20200323/) Quanta
 - [The state of the restaurant industry.](https://www.opentable.com/state-of-industry) OpenTable
 - [AlphaGo Documentary.](https://www.youtube.com/watch?v=WXuK6gekU1Y) DeepMind
