@@ -1,5 +1,6 @@
 
 # News and Optional Articles
+- ["We have seen a 775 percent increase of our cloud services in regions that have enforced social distancing or shelter in place orders."](https://azure.microsoft.com/en-us/blog/update-2-on-microsoft-cloud-services-continuity/) Microsoft Azure
 - [An interactive visualization of the exponential spread of COVID-19.](http://91-divoc.com/pages/covid-visualization/)
 - [Nature Versus Nurture? Add ‘Noise’ to the Debate.](https://www.quantamagazine.org/nature-versus-nurture-add-noise-to-the-debate-20200323/) Quanta
 - [The state of the restaurant industry.](https://www.opentable.com/state-of-industry) OpenTable
