@@ -1,5 +1,6 @@
 
 # News and Optional Articles
+- [Why It’s So Freaking Hard To Make A Good COVID-19 Model.](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/) 538
 - [COVID-19 Projections.](https://covid19.healthdata.org/projections) University of Washington IHME
 - ["We have seen a 775 percent increase of our cloud services in regions that have enforced social distancing or shelter in place orders."](https://azure.microsoft.com/en-us/blog/update-2-on-microsoft-cloud-services-continuity/) Microsoft Azure
 - [An interactive visualization of the exponential spread of COVID-19.](http://91-divoc.com/pages/covid-visualization/)
