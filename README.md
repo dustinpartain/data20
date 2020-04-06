@@ -1,5 +1,6 @@
 
 # News and Optional Articles
+- [Did Target Really Predict a Teen’s Pregnancy? The Inside Story.](https://www.kdnuggets.com/2014/05/target-predict-teen-pregnancy-inside-story.html)
 - [Tesla Ventilator.](https://www.youtube.com/watch?v=zZbDg24dfN0)
 - [Why It’s So Freaking Hard To Make A Good COVID-19 Model.](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/) 538
 - [COVID-19 Projections.](https://covid19.healthdata.org/projections) University of Washington IHME
