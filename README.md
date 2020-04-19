@@ -1,5 +1,6 @@
 
 # News and Optional Articles
+- [How does coronavirus kill? Clinicians trace a ferocious rampage through the body, from brain to toes.](https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes#) Science
 - [Contamination at CDC lab delayed rollout of coronavirus tests.](https://www.washingtonpost.com/investigations/contamination-at-cdc-lab-delayed-rollout-of-coronavirus-tests/2020/04/18/fd7d3824-7139-11ea-aa80-c2470c6b2034_story.html) Washington Post
 - [A Long Time Until the Economic New Normal.](https://sloanreview.mit.edu/article/a-long-time-until-the-economic-new-normal/) MIT Sloan Management Review
 - [Hospitals Deploy AI Tools to Detect COVID-19 on Chest Scans.](https://spectrum.ieee.org/the-human-os/biomedical/imaging/hospitals-deploy-ai-tools-detect-covid19-chest-scans) IEEE Spectrum
